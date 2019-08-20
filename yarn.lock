@@ -811,19 +811,19 @@
   dependencies:
     react "^16.9.0"
 
+"@bit/gstanto.open.user-menu@file:./src/bits/user-menu":
+  version "0.0.7"
+  dependencies:
+    "@bit/gstanto.treehouse_tech.hover-menu" "0.0.3"
+    "@emotion/styled" "^10.0.14"
+    prop-types "^15.7.2"
+    react "^16.8.6"
+
 "@bit/gstanto.treehouse_tech.hover-menu@0.0.3":
   version "0.0.3"
   resolved "https://node.bit.dev/gstanto.treehouse_tech.hover-menu/-/gstanto.treehouse_tech.hover-menu-0.0.3.tgz#90a62b4b94dbb83e88b2b83f07944cf616606e45"
   integrity sha1-kKYrS5TbuD6Isrg/B5RM9hZgbkU=
   dependencies:
-    "@emotion/styled" "^10.0.14"
-    prop-types "^15.7.2"
-    react "^16.8.6"
-
-"@bit/gstanto.treehouse_tech.user-menu@file:./src/bits/user-menu":
-  version "0.0.7"
-  dependencies:
-    "@bit/gstanto.treehouse_tech.hover-menu" "0.0.3"
     "@emotion/styled" "^10.0.14"
     prop-types "^15.7.2"
     react "^16.8.6"
