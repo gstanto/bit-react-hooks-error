@@ -8,7 +8,7 @@
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
     "@bit/gstanto.open.square-2": "0.0.1",
-    "@bit/gstanto.treehouse_tech.user-menu": "file:./src/bits/user-menu"
+    "@bit/gstanto.open.user-menu": "file:./src/bits/user-menu"
   },
   "scripts": {
     "start": "react-scripts start",
