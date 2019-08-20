@@ -1,0 +1,21 @@
+{
+  "name": "@bit/gstanto.treehouse_tech.user-menu",
+  "version": "0.0.7",
+  "homepage": "https://bit.dev/gstanto/treehouse_tech/user-menu",
+  "main": "dist/UserMenuAuth.js",
+  "dependencies": {
+    "react": "^16.8.6",
+    "@emotion/styled": "^10.0.14",
+    "prop-types": "^15.7.2",
+    "@bit/gstanto.treehouse_tech.hover-menu": "0.0.3"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.2",
+      "tester": "bit.envs/testers/jest@22.4.3"
+    }
+  }
+}

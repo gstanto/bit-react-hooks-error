@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/core": "^10.0.16",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
-    "@bit/gstanto.open.square-2": "file:./src/bits/square-2"
+    "@bit/gstanto.open.square-2": "0.0.1",
+    "@bit/gstanto.treehouse_tech.user-menu": "file:./src/bits/user-menu"
   },
   "scripts": {
     "start": "react-scripts start",
